@@ -60,7 +60,7 @@ Built with **HTML, CSS, JavaScript, jQuery, Bootstrap, and Flexbox**, crafted fo
 
 </div>
 
-🔗 **[Live Demo](https://spin-wheel-con.pages.dev)**
+🔗 **[Live Demo](https://spin.condev.ir)**
 
 ---
 
